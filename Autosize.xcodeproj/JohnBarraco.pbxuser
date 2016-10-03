@@ -1,0 +1,150 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Autosize */ = {
+		activeExec = 0;
+		executables = (
+			F6816931139E7CC600720E66 /* Autosize */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* AutosizeViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {553, 560}}";
+			sepNavSelRange = "{698, 0}";
+			sepNavVisRange = "{0, 707}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* AutosizeViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 1352}}";
+			sepNavSelRange = "{640, 3}";
+			sepNavVisRange = "{146, 1430}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = F6816931139E7CC600720E66 /* Autosize */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Autosize */;
+		codeSenseManager = F681693B139E7CD600720E66 /* Code sense */;
+		executables = (
+			F6816931139E7CC600720E66 /* Autosize */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					375,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 329153734;
+			PBXWorkspaceStateSaveDate = 329153734;
+		};
+		perUserProjectItems = {
+			F681696C139EB64000720E66 /* PlistBookmark */ = F681696C139EB64000720E66 /* PlistBookmark */;
+			F681696D139EB64000720E66 /* PBXTextBookmark */ = F681696D139EB64000720E66 /* PBXTextBookmark */;
+			F681696E139EB64000720E66 /* XCBuildMessageTextBookmark */ = F681696E139EB64000720E66 /* XCBuildMessageTextBookmark */;
+			F681696F139EB64000720E66 /* PBXTextBookmark */ = F681696F139EB64000720E66 /* PBXTextBookmark */;
+		};
+		sourceControlManager = F681693A139E7CD600720E66 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	F6816931139E7CC600720E66 /* Autosize */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Autosize;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	F681693A139E7CD600720E66 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F681693B139E7CD600720E66 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F681696C139EB64000720E66 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Autosize-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			LSRequiresIPhoneOS,
+		);
+		name = "/Users/JohnBarraco/Documents/code/developerBooks/iOS/Autosize/Autosize-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	F681696D139EB64000720E66 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* AutosizeViewController.h */;
+		name = "AutosizeViewController.h: 24";
+		rLen = 0;
+		rLoc = 698;
+		rType = 0;
+		vrLen = 707;
+		vrLoc = 0;
+	};
+	F681696E139EB64000720E66 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected identifier or '(' before 'void'";
+		fRef = 28D7ACF70DDB3853001CB0EB /* AutosizeViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 18;
+		rType = 1;
+	};
+	F681696F139EB64000720E66 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* AutosizeViewController.m */;
+		name = "AutosizeViewController.m: 24";
+		rLen = 3;
+		rLoc = 640;
+		rType = 0;
+		vrLen = 1430;
+		vrLoc = 146;
+	};
+}
